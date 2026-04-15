@@ -17,6 +17,9 @@
   <a href="mailto:elyousfimohamed263@gmail.com">
     <img src="https://img.shields.io/badge/Email-050B18?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=050B18&color=2563EB" alt="Email" />
   </a>
+  <a href="assets/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-050B18?style=for-the-badge&logo=readme&logoColor=white&labelColor=050B18&color=1D4ED8" alt="Resume" />
+  </a>
 </p>
 
 ---
@@ -72,6 +75,15 @@ My current direction is focused on **Next.js** and **Three.js**, with the goal o
 <p align="center">
   <a href="mailto:elyousfimohamed263@gmail.com">
     <img src="https://img.shields.io/badge/elyousfimohamed263%40gmail.com-050B18?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=050B18&color=00D9FF" alt="Email" />
+  </a>
+  <a href="tel:+212618304016">
+    <img src="https://img.shields.io/badge/%2B212%20618304016-050B18?style=for-the-badge&labelColor=050B18&color=2563EB" alt="Phone" />
+  </a>
+  <a href="https://wa.me/+212618304016">
+    <img src="https://img.shields.io/badge/WhatsApp-050B18?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=050B18&color=00D9FF" alt="WhatsApp" />
+  </a>
+  <a href="assets/resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-050B18?style=for-the-badge&logo=readme&logoColor=white&labelColor=050B18&color=1D4ED8" alt="Download resume" />
   </a>
 </p>
 
