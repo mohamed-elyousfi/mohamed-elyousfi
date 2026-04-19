@@ -33,9 +33,6 @@ I am a full-stack development student based in Tanger, Morocco. I started with t
 
 My current direction is focused on **Next.js** and **Three.js**, with the goal of building modern pages that feel smooth, cinematic, and interactive while still being useful and well structured.
 
-## Featured Work
-
-- [Portfolio](https://mohamed-elyousfi.github.io/Portofolio/) - Personal portfolio showcasing my projects, skills, and developer identity.
 
 
 ## Current Focus
